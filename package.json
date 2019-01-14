@@ -1,0 +1,27 @@
+{
+  "name": "livescore_backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.15.3",
+    "blob": "0.0.5",
+    "body-parser": "^1.17.1",
+    "cheerio": "^0.22.0",
+    "cheerio-tableparser": "^1.0.1",
+    "download-file": "^0.1.5",
+    "express": "^4.15.2",
+    "js-file-download": "^0.4.4",
+    "mongoose": "^4.9.0",
+    "multer": "^1.3.0",
+    "node-url-downloader": "^0.1.9",
+    "util": "^0.11.1"
+  }
+}
